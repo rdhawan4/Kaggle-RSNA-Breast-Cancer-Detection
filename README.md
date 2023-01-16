@@ -22,3 +22,14 @@ Detect Breast cancer using RSNA Mammography images and applying Deep Learning Te
   - BIRADS - 0 if the breast required follow-up, 1 if the breast was rated as negative for cancer, and 2 if the breast was rated as normal. Only provided for train.
   - prediction_id - The ID for the matching submission row. Multiple images will share the same prediction ID. Test only.
   - difficult_negative_case - True if the case was unusually difficult. Only provided for train.
+
+
+# Deep Learning Methods:
+- Built a CNN from scratch using Tensorflow and Keras
+- Develop on the Xception model and apply Transfer Learning
+- Utlize CNN and add Meta data into Dense Layer before prediction
+- Utlize Xception Model and add Meta Data into last Dense Layer before Prediction
+
+# Learnings
+- Handling DICOM Image data both 2D and 3D formats (png)
+- Incorporate Metadata in between layers 
