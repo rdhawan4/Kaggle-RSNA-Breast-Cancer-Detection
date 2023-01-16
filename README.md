@@ -1,5 +1,5 @@
 # Kaggle-RSNA-Breast-Cancer-Detection
-Detect Breast cancer using RSNA Mammography images and applying Deep Learning Techniques 
+Detect Breast cancer using RSNA Mammography images and applying Deep Learning methods like CNN,Transfer Learning etc. 
 # RSNA Screening Mammography Breast Cancer Detection
 ![image](https://user-images.githubusercontent.com/112804900/212580738-6077bf5b-e44d-4ee4-946e-b2bbbf4ce12c.png)
 
